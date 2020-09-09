@@ -1,0 +1,16 @@
+{
+  "name": "Mi-servidor-en-Express",
+  "version": "1.0.0",
+  "description": "Mi primer express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mariana Ávila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
